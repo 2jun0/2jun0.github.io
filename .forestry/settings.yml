@@ -7,6 +7,7 @@ sections:
 - type: document
   path: ㄹ
   label: ㄹ
+  match: "**/*"
 - type: document
   path: FORESTRY-README.md
   label: Welcome - First Steps
