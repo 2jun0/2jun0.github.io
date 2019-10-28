@@ -14,7 +14,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: '블로그 '
+  headline: ejun0<br><strong>블로그 블로그</strong>
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
