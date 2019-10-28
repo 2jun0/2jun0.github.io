@@ -15,8 +15,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>fancy</strong><br>하고싶은<strong> 블로그</strong>"
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: 여러가지 것들을 올리는 블로그 입니다.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
