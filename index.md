@@ -5,7 +5,7 @@ date: 2019-10-28 15:55:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2019/10/28/logo.jpg"
+  logo: "/uploads/2019/10/28/blog logo.png"
   navigation:
   - link: "/"
     link_text: Home
