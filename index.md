@@ -18,7 +18,7 @@ page_sections:
   content: 여러가지 것들을 올리는 블로그 입니다.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://github.com/2jun0/2jun0.github.io
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2019/10/28/blog logo.png"
