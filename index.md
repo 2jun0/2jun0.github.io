@@ -14,7 +14,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>ejun0 블로그</strong>"
+  headline: "<strong>Fancy하고 싶은 블로그</strong>"
   content: 여러가지 것들을 올리는 블로그 입니다.
   cta:
     enabled: true
