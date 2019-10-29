@@ -28,11 +28,6 @@ page_sections:
   block: text-1
   headline: Time goes on
   content: "<p>Times</p>"
-- template: live-text
-  block: ''
-  area: dfsfdfsafdfasf
-  date: '2019-10-14T15:00:00.000+00:00'
-  ast: 2019-10-01 15:00:00 +0000
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
