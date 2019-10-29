@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2019/10/28/blog logo.png"
   navigation:
+  - link: ''
+    link_text: ''
   - link: "/"
     link_text: Home
   cta:
