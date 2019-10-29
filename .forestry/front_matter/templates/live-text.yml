@@ -1,4 +1,19 @@
 ---
 label: live-text
 hide_body: false
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+- name: ast
+  type: datetime
+  label: ast
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
