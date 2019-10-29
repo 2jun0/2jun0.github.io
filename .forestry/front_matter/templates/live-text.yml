@@ -6,7 +6,7 @@ fields:
   type: text
   config:
     required: false
-  label: Block
+  label: block
   hidden: true
 - name: dfs
   type: list
