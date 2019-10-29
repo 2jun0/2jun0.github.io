@@ -29,7 +29,7 @@ page_sections:
   headline: Time goes on
   content: "<p>Times</p>"
 - template: live-text
-  title: ''
+  title: fdsff
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
