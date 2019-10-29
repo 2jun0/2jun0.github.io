@@ -2,6 +2,12 @@
 label: live-text
 hide_body: false
 fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: Block
+  hidden: true
 - name: dfs
   type: list
   config:
