@@ -1,9 +1,25 @@
 ---
-label: live-text
+label: live-message1
 hide_body: false
 fields:
-- name: title
+- name: block
   type: text
   config:
     required: false
-  label: Title
+  label: block
+  default: live-message1
+  hidden: true
+- name: headline
+  type: text
+  config:
+    required: false
+  label: headline
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: content
