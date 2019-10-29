@@ -21,6 +21,12 @@ sections:
   path: FORESTRY-README.md
   label: Welcome - First Steps
   read_only: true
+- type: heading
+  label: Contents
+- type: document
+  path: content/live-messages
+  label: Live Messages
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
