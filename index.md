@@ -24,10 +24,10 @@ page_sections:
     image: "/uploads/2019/10/28/blog logo.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: 1-column-text
-  block: one-column-1
-  headline: First
-  content: Time goes on
+- template: detail-content
+  block: text-1
+  headline: Time goes on
+  content: "<p>Times</p>"
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
