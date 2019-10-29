@@ -35,7 +35,7 @@ page_sections:
   content: Hello world! ❤︎
 - template: live-text
   block: ''
-  area: ''
+  area: dfsfdfsafdfasf
 
 ---
 foo bar
