@@ -1,14 +1,12 @@
 ---
 layout: blocks
 title: Homepage
-date: 2019-10-28 15:55:00 +0000
+date: 2019-10-28T15:55:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2019/10/28/blog logo.png"
   navigation:
-  - link: ''
-    link_text: ''
   - link: "/"
     link_text: Home
   cta:
@@ -33,7 +31,8 @@ page_sections:
 - template: live-text
   block: ''
   area: dfsfdfsafdfasf
-  date: 2019-10-14 15:00:00 +0000
+  date: '2019-10-14T15:00:00.000+00:00'
+  ast: 2019-10-01 15:00:00 +0000
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
