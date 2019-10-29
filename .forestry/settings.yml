@@ -26,7 +26,6 @@ sections:
 - type: document
   path: content/live-messages
   label: Live Messages
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
