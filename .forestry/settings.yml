@@ -23,9 +23,10 @@ sections:
   read_only: true
 - type: heading
   label: Contents
-- type: document
-  path: content/live-messages
+- type: jekyll-pages
   label: Live Messages
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
