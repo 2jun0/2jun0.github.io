@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2019-10-28T15:55:00.000+00:00
+date: 2019-10-28 15:55:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -33,6 +33,7 @@ page_sections:
 - template: live-text
   block: ''
   area: dfsfdfsafdfasf
+  date: 
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
