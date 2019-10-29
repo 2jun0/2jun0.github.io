@@ -33,6 +33,9 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: live-text
+  block: ''
+  area: ''
 
 ---
 foo bar
