@@ -28,6 +28,8 @@ page_sections:
   block: text-1
   headline: Time goes on
   content: "<p>Times</p>"
+- template: live-text
+  title: ''
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
