@@ -31,6 +31,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: detail-content
+  block: live-message1
+  headline: sfsdf
+  content: "<p>dfsfffs</p>"
 
 ---
 foo bar
