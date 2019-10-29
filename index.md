@@ -33,7 +33,7 @@ page_sections:
 - template: live-text
   block: ''
   area: dfsfdfsafdfasf
-  date: 
+  date: 2019-10-14 15:00:00 +0000
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
