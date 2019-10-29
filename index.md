@@ -30,12 +30,12 @@ page_sections:
   block: text-1
   headline: Time goes on
   content: "<p>Times</p>"
-- template: simple-footer
-  block: footer-1
-  content: Hello world! ❤︎
 - template: live-text
   block: ''
   area: dfsfdfsafdfasf
+- template: simple-footer
+  block: footer-1
+  content: Hello world! ❤︎
 
 ---
 foo bar
