@@ -4,7 +4,7 @@ author: ejun0
 email: soo28819@gmail.com
 description: 이것저것 쓰는 블로그
 baseurl: "/2jun0.github.io"
-url: ''
+url: 2jun0.github.io
 defaults:
 - scope:
     path: ''
