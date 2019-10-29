@@ -26,8 +26,8 @@ page_sections:
   background_image: ''
 - template: 1-column-text
   block: one-column-1
-  headline: ''
-  content: ''
+  headline: First
+  content: Time goes on
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
