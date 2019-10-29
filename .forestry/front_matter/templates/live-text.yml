@@ -8,10 +8,12 @@ fields:
     required: false
   label: block
   hidden: true
-- name: dfs
-  type: list
+- name: area
+  type: textarea
+  default: ''
   config:
-    use_select: false
-    min: 
-    max: 
-  label: edd
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: area
