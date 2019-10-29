@@ -6,7 +6,7 @@ fields:
   hidden: true
   label: block
   name: block
-  default: live-message1
+  default: text-1
 - type: text
   name: headline
   label: Headline
