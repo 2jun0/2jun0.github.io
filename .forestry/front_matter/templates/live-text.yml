@@ -1,4 +1,11 @@
 ---
 label: live-text
 hide_body: false
-fields: []
+fields:
+- name: dfs
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: edd
