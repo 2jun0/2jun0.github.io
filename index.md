@@ -30,6 +30,9 @@ page_sections:
   content: "<p>Times</p>"
 - template: live-text
   title: fdsff
+  block: ''
+  headline: "123"
+  content: "123"
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
