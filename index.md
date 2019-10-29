@@ -24,6 +24,10 @@ page_sections:
     image: "/uploads/2019/10/28/blog logo.png"
     alt_text: Product Shot
   background_image: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  content: ''
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
