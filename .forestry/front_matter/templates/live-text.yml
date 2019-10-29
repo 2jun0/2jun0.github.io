@@ -7,7 +7,7 @@ fields:
   config:
     required: false
   label: block
-  default: live-message1
+  default: text-1
   hidden: true
 - name: headline
   type: text
