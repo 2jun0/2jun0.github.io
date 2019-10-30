@@ -654,6 +654,28 @@ input.inverted::placeholder {
   }
 }
 
+.block-live-message-1 .columns {
+  margin: -2rem;
+}
+
+.block-live-message-1 .column {
+  margin: 2rem;
+}
+
+.block-live-message-1 .headline {
+  -ms-flex: 0 0 calc(35% - 4rem);
+  flex: 0 0 calc(35% - 4rem);
+}
+
+.block-live-message-1 .text {
+  -ms-flex: 0 0 calc(65% - 4rem);
+  flex: 0 0 calc(65% - 4rem)
+}
+
+.block-live-message-1 .headline h3 {
+  margin-bottom: 0
+}
+
 .block-feature-1 .columns {
   display: -ms-flexbox;
   display: flex;
