@@ -1,5 +1,5 @@
 ---
-label: live-message1
+label: live-message-1
 hide_body: false
 fields:
 - name: block
@@ -7,7 +7,7 @@ fields:
   config:
     required: false
   label: block
-  default: text-1
+  default: live-message-1
   hidden: true
 - name: headline
   type: text
